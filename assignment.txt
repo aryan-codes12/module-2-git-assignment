@@ -1,1 +1,2 @@
 This is my git and github assignment.
+I am learning git branching and committing.
