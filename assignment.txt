@@ -1,1 +1,1 @@
-I am learning branching, staging, and committing.
+This is my git and github assignment.
